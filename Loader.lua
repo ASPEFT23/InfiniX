@@ -1,3 +1,3 @@
-local __function = loadstring(game:HttpGet("https://github.com/Hosvile/InfiniX/releases/latest/download/main.lua", true))
-
-__function(__function)
+script_key = 'free';
+repo = 'free';
+pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/lxlxuz/ByteWorks/main/hub.lua"))() end);
