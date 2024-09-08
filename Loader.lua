@@ -1,3 +1,1 @@
-local __function = loadstring(game:HttpGet("https://github.com/Hosvile/InfiniX/releases/latest/download/main.lua", true))
-
-__function(__function)
+for i,v in next, (workspace:GetDescendants()) do if v:IsA("Part") then v. Material = Enum.Material. SmoothPlastic end end
